@@ -5,6 +5,9 @@ import { unicodeSplit } from '../../lib/words'
 //adding random comment here so Josh
 //can see what the hell a diff is
 
+//the jujutsu kaisen movie was alright 
+//children of the sea was fucking amazing
+
 type Props = {
   guess: string
   isRevealing?: boolean
