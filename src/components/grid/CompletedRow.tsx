@@ -2,6 +2,9 @@ import { getGuessStatuses } from '../../lib/statuses'
 import { Cell } from './Cell'
 import { unicodeSplit } from '../../lib/words'
 
+//adding random comment here so Josh
+//can see what the hell a diff is
+
 type Props = {
   guess: string
   isRevealing?: boolean
