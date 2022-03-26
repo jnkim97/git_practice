@@ -5,6 +5,9 @@ import { unicodeSplit } from '../../lib/words'
 //adding random comment here so Josh
 //can see what the hell a diff is
 
+//I'm going to commit more comments so Josh
+//Can see why it's worth using branches
+
 type Props = {
   guess: string
   isRevealing?: boolean
